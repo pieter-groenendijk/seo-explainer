@@ -46,16 +46,15 @@ Volgens de Google guidelines wordt er gekeken naar twee delen, de pagina kwalite
 Dit uit zich bijvoorbeeld ook in de structuur van URL's zelf: gebruik `https://example.com/wiki/Aviation` i.p.v. `https://example.com/index.php?topic=42&area=3a5ebc944f41daa6f849f730f1`. [@GoogleURLStructure]
 
 ## Expliciet maken
-Zoals eerder besproken ligt er tegenwoordig een hoge nadruk op gebruikersgericht schrijven. Echter, men onthaalt nog steeds andere betekenis uit een pagina dan dat een zoekmachine denkt. Door expliciete beschrijvingen specifiek toe te voegen voor de _robots_ wordt dit gat kleiner.
+Zoals eerder besproken ligt er tegenwoordig een hoge nadruk op gebruikersgericht schrijven. Echter, men onthaalt nog steeds andere betekenis uit een pagina dan dat een zoekmachine denkt. Door expliciete beschrijvingen specifiek toe te voegen voor de _bots_ wordt dit gat kleiner.
 
-De `<title>` en `<meta name="description">` tags zijn hier de kern. Deze bieden respectievelijk een korte titel en beschrijving. Dit is vaak de tekst die je zult zien per resultaat bij zoekresultaten. [@GoogleMetaTags; @GoogleTitleLinks]
+De `<title>` en `<meta name="description">` tags zijn hier de kern. Deze bieden respectievelijk een korte titel en beschrijving. Dit is vaak de tekst die je zult zien per resultaat bij zoekresultaten. [@GoogleMetaTags; @GoogleTitleLinks; @BingGuidelines]
 
-Ook inhoudelijke semantische HTML-elementen zoals gebruik van `<quote>`, `<article>`, `<section>`. Een logische _hoofdstukstructuur_ van `<h1>` t/m `<h6` is hier ook van belang.
+Ook inhoudelijke semantische HTML-elementen zoals gebruik van `<quote>`, `<article>`, `<section>` kunnen het beter te begrijpen maken. Een logische _hoofdstukstructuur_ van `<h1>` t/m `<h6` is hier ook van belang, en kunnen soms ook als kernwoorden gebruikt worden in zoekresultaten. [@BingGuidelines]
 
+Foto's en video's vereisen meer aandacht om informatie over te brengen naar de _bots_. Bied alternatieve tekst, captions, transcripts en _structured data_ aan[^latermeer]. [@BingGuidelines; @GoogleImages]
 
-[@GoogleMetaTags; @GoogleTitleLinks; @BingGuidelines]
-
-
+[^latermeer]: _structured data_ wordt in het hoofdstuk [Uiterlijk](#uiterlijk) meer besproken.
 
 ## Vertrouwen opbouwen
 <!--
