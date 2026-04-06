@@ -1,15 +1,71 @@
 ---
-title: Quick guide for SEO
+title: Praktische SEO gids
 author: Pieter Groenendijk
 date: Apr 6 2026
 bibliography: ./references.bibtex
 ---
 
+<!-- 
+    TODO:
+    - Reorganizatie
+    - Informatie betreffende AI
+-->
 
 # Introductie
-Of afgekort als SEO, is het verbeteren van de **zichtbaarheid** en **prestaties** van webpagina's binnen zoekmachines zoals bijv. Google [@WikipediaSEO; @MDNSEO; GoogleSEO]. Afwijkend van SEA, search engine advertising, is het **gratis** (tenzij je gaat sjoemelen) [@WikipediaSEO].
+- Terminologie
+  - Zoekmachine
+  - Crawler & Crawling
+  - Ranking
+  - Index, Indexer en Indexing
 
-# Methoden
+Search Engine Optimization, ookwel SEO, is het verbeteren van de zichtbaarheid en prestaties van pagina's op zoekmachines zoals bijv. Google, Brave en Bing . Afwijkend van veel vormen van marketing/promotie is SEO doorgaans gratis[^SEOGratis] [@WikipediaSEO; @MDNSEO; @GoogleSEO; @WikipediaSearchEngines]
+
+[^SEOGratis]: Behalve natuurlijk als je ervoor iemand inhuurt, of wellicht valse praktijken toepast.
+
+Een zoekmachine berust op zijn index om zoekresultaten te kunnen bieden. Vergelijkbaar met een index in een boek om zo op basis van trefwoorden informatie in het boek te vinden. Een webpagina's is daaruit theoretisch te vinden via een zoekmachine wanneer deze geïndexeerd is. [@GoogleSearchHowItWorks]
+
+Voordat een pagina geïndexeerd kan worden zal deze eerst überhaupt ontdekt moeten worden door de zoekmachine. Dit wordt voornamelijk gedaan door zogenoemde crawlers die links op al geïndexeerde pagina's volgen om zo nieuwe pagina's te vinden. In sommige gevallen wordt dit ook handmatig aangevraagd met behulp van een sitemap. [@GoogleSearchHowItWorks; @WikipediaSEO]
+
+# Begineisen
+Er zijn enkele begineisen om een pagina te laten indexeren [@GoogleTechRequirements]:
+
+- Crawlers zijn niet geblokkeerd
+- De pagina is functioneel
+- De pagina is indexeerbaar
+
+Sommige pagina's hoeven helemaal geïndexeerd worden, zoals bijv. een inlogpagina, print-versie, of een tijdelijke website.
+
+# Ranking
+Google's daadwerkelijke algoritme is geheim — echter zijn [de guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf) waaruit ze feedback onttrekken openlijk beschikbaar.
+
+## Persoonsgericht
+Zoekmachines adviseren pagina's te ontwerpen naar gebruikers, waarbij ontwerp naar zoekmachines voornamelijk wordt gezien als misbruik, wat kan leiden tot negatieve effecten op indexatie. Daaruit zullen zoekmachines behulpzame informatie hoger proberen te indexeren. [@GooglePeopleFirst; @BingGuidelines]
+
+Volgens de Google guidelines wordt er gekeken naar twee delen, de pagina kwaliteit en de vervulling van behoeften. Voor SEO is de pagina kwaliteit hier van belang. De pagina kwaliteit reflecteert in hoeverre de pagina zijn eigen beschreven doel bereikt, met uitzondering van misleiding. Deze beoordeling wordt gedaan op basis van de ervaring, expertise en autoriteit van de maker in combinatie met het vertrouwen dat de pagina accuraat eerlijk, veilig en betrouwbaar is. **Zoekmachines nemen dus niet enkel rekening met de "wat", maar ook de "wie", "hoe" en "waarom"**. [@GoogleQualityRaterGuidelines; @GooglePeopleFirst]
+
+Dit uit zich bijvoorbeeld ook in de structuur van URL's zelf: gebruik `https://example.com/wiki/Aviation` i.p.v. `https://example.com/index.php?topic=42&area=3a5ebc944f41daa6f849f730f1`. [@GoogleURLStructure]
+
+## Expliciet maken
+Zoals eerder besproken ligt er tegenwoordig een hoge nadruk op gebruikersgericht schrijven. Echter, men onthaalt nog steeds andere betekenis uit een pagina dan dat een zoekmachine denkt. Door expliciete beschrijvingen specifiek toe te voegen voor de _robots_ wordt dit gat kleiner.
+
+De `<title>` en `<meta name="description">` tags zijn hier de kern. Deze bieden respectievelijk een korte titel en beschrijving. Dit is vaak de tekst die je zult zien per resultaat bij zoekresultaten. [@GoogleMetaTags; @GoogleTitleLinks]
+
+Ook inhoudelijke semantische HTML-elementen zoals gebruik van `<quote>`, `<article>`, `<section>`. Een logische _hoofdstukstructuur_ van `<h1>` t/m `<h6` is hier ook van belang.
+
+
+[@GoogleMetaTags; @GoogleTitleLinks; @BingGuidelines]
+
+
+
+## Vertrouwen opbouwen
+<!--
+    - Linkbuilding
+    - Promotie
+-->
+
+# Uiterlijk
+
+
 
 
 ## Zichtbaarheid
