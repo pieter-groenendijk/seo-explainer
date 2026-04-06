@@ -12,12 +12,6 @@ bibliography: ./references.bibtex
 -->
 
 # Introductie
-- Terminologie
-  - Zoekmachine
-  - Crawler & Crawling
-  - Ranking
-  - Index, Indexer en Indexing
-
 Search Engine Optimization, ookwel SEO, is het verbeteren van de zichtbaarheid en prestaties van pagina's op zoekmachines zoals bijv. Google, Brave en Bing . Afwijkend van veel vormen van marketing/promotie is SEO doorgaans gratis[^SEOGratis] [@WikipediaSEO; @MDNSEO; @GoogleSEO; @WikipediaSearchEngines]
 
 [^SEOGratis]: Behalve natuurlijk als je ervoor iemand inhuurt, of wellicht valse praktijken toepast.
@@ -25,6 +19,8 @@ Search Engine Optimization, ookwel SEO, is het verbeteren van de zichtbaarheid e
 Een zoekmachine berust op zijn index om zoekresultaten te kunnen bieden. Vergelijkbaar met een index in een boek om zo op basis van trefwoorden informatie in het boek te vinden. Een webpagina's is daaruit theoretisch te vinden via een zoekmachine wanneer deze geïndexeerd is. [@GoogleSearchHowItWorks]
 
 Voordat een pagina geïndexeerd kan worden zal deze eerst überhaupt ontdekt moeten worden door de zoekmachine. Dit wordt voornamelijk gedaan door zogenoemde crawlers die links op al geïndexeerde pagina's volgen om zo nieuwe pagina's te vinden. In sommige gevallen wordt dit ook handmatig aangevraagd met behulp van een sitemap. [@GoogleSearchHowItWorks; @WikipediaSEO]
+
+De uiteindelijke plaatsing binnen de rangordening wordt de ranking genoemd.
 
 # Begineisen
 Er zijn enkele begineisen om een pagina te laten indexeren [@GoogleTechRequirements]:
@@ -61,6 +57,11 @@ Foto's en video's vereisen meer aandacht om informatie over te brengen naar de _
     - Linkbuilding
     - Promotie
 -->
+Interne links, d.w.z. pagina's die verwijzen naar andere pagina's binnen hetzelfde domein, zijn belangrijk voor gebruikers en bots om gerelateerde informatie te vinden op een pagina. Het geeft namelijk weer hoe pagina's met elkaar in verband staan. [@GoogleLinks; @BingGuidelines]
+
+Externe links, d.w.z. pagina's die verwijzen naar andere pagina's buiten het domein, kunnen een pagina zijn inhoud betrouwbaarder maken, denk aan bijv. het citeren van bronnen. [@GoogleLinks; @BingGuidelines]
+
+Backlinks, d.w.z. pagina's van andere domeinen die verwijzen naar pagina's op jouw domein, signaleren sterk dat men de inhoud van waarde inschatten. Daarmee _leen_ je de autoriteit van oorsprong van de link. Let erop dat veel platforms, bijv. LinkedIn, dit expliciet niet doen. [@BingLinkBuilding]
 
 ## Technische randvoorwaarden
 De randvoorwaarden, zoals veiligheid, snelheid en toegankelijkheid, spreken ook over de kwaliteit van een webpagina. Daaruit worden deze ook meegenomen. Dit ligt technischer en worden daarom niet uitgebreid besproken. [PageSpeed Insights](https://pagespeed.web.dev) zou gebruikt kunnen worden als beginpunt[^pagespeedcritical]. [@GooglePageXP]
@@ -68,6 +69,11 @@ De randvoorwaarden, zoals veiligheid, snelheid en toegankelijkheid, spreken ook 
 [^pagespeedcritical]: Neem er rekening mee dat deze inzichten zeer kritisch zijn. Een lagere score betekent niet gelijk dat een ranking laag zal zijn.
 
 # Uiterlijk
+<!--
+  TODO:
+  - Rich results
+  - Social Media integratie: Open graph protocol
+-->
 
 
 
@@ -76,9 +82,5 @@ De randvoorwaarden, zoals veiligheid, snelheid en toegankelijkheid, spreken ook 
 
 
 
-## Prestaties
-
-
-## AI
 
 # Referenties
