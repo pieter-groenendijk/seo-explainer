@@ -40,6 +40,8 @@ Schrijven voor personen betekent ook dat URL's en URL-structuren begrijpbaar moe
 
 Maak het duidelijk dat jouw pagina aanspreekt tot mensen in een bepaalde context, zelfs als je niet verwacht dat iemand hier direct voor zou zoeken, bijv. de locatie van een restaurant, of de publicatiedatum van een artikel.
 
+Door middel van [_structured data_](https://developers.google.com/search/docs/appearance/structured-data/search-gallery) kan je _rich results_ vormen, dat zijn speciaal geformatteerde resultaten. Het Open Graph protocol biedt vergelijkbare mogelijkheden voor het delen van een webpagina op socialmediaplatform.
+
 [@WikipediaSEO; GoogleSEO]
 
 <!--
@@ -69,11 +71,7 @@ Deze liggen wat technischer en daaruit worden deze voor nu niet uitgebreid bespr
 
 
 ## Prestaties
-<!--
-    - Social media integration
-    - Rich results
--->
-_Structured data_ kan ook helpen met men 
+
 
 ## AI
 
