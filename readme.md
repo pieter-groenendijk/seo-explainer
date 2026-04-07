@@ -16,13 +16,14 @@ Search Engine Optimization, ookwel SEO, is het verbeteren van de zichtbaarheid e
 
 [^SEOGratis]: Behalve natuurlijk als je ervoor iemand inhuurt, of wellicht valse praktijken toepast.
 
+De uiteindelijke plaatsing binnen de rangordening wordt de ranking genoemd.
+
 Een zoekmachine berust op zijn index om zoekresultaten te kunnen bieden. Vergelijkbaar met een index in een boek om zo op basis van trefwoorden informatie in het boek te vinden. Een webpagina's is daaruit theoretisch te vinden via een zoekmachine wanneer deze geïndexeerd is. [@GoogleSearchHowItWorks]
 
 Voordat een pagina geïndexeerd kan worden zal deze eerst überhaupt ontdekt moeten worden door de zoekmachine. Dit wordt voornamelijk gedaan door zogenoemde crawlers die links op al geïndexeerde pagina's volgen om zo nieuwe pagina's te vinden. In sommige gevallen wordt dit ook handmatig aangevraagd met behulp van een sitemap. [@GoogleSearchHowItWorks; @WikipediaSEO]
 
-De uiteindelijke plaatsing binnen de rangordening wordt de ranking genoemd.
 
-# Begineisen
+# Eisen
 Er zijn enkele begineisen om een pagina te laten indexeren [@GoogleTechRequirements]:
 
 - Crawlers zijn niet geblokkeerd
@@ -78,10 +79,10 @@ Naast de positie maakt het natuurlijk ook uit wat er staat als zoekresultaat. He
 
 De eerdere titel en beschrijving zal je doorgaans vaak tegenkomen in zoekresultaten. Zolang dit geschreven is richting de gebruiker hoeft hier vermoedelijk weinig nog gedaan aan te worden. 
 
-Met behulp van gestandaardiseerd format genaamd _structured data_ meer informatie gegeven geworden, maar wellicht unieker: classificaties. Bijv. een artikel, carousel, cursuslijst, evenement, Q&A, recept en [anderen](https://developers.google.com/search/docs/appearance/structured-data/search-gallery). Deze classificaties kan de zoekmachine vervolgens gebruiken voor een unieker uiterlijk.
+Met behulp van gestandaardiseerd format genaamd _structured data_ kan meer informatie gegeven worden, maar wellicht unieker: classificaties. Bijv. een artikel, carousel, cursuslijst, evenement, Q&A, recept en [anderen](https://developers.google.com/search/docs/appearance/structured-data/search-gallery). Deze classificaties kan de zoekmachine vervolgens gebruiken voor een unieker uiterlijk.
 [@GoogleStructuredData; @GoogleStructuredDataSupports]
 
-Normaliter krijgen gedeelde links op socialmediaplatforms een preview, een voorbeeld van waar de website over gaat. Vergelijkbaar met _structured data_ kan er meer informatie gegeven worden betreffende het uiterlijk. Meeste platforms gebruiken hierbij waardes uit het [open graph protocol](ogp.me).
+Normaliter krijgen gedeelde links op socialmediaplatforms een preview, een voorbeeld van waar de website over gaat. Vergelijkbaar met _structured data_ kan er meer informatie gegeven worden betreffende het uiterlijk. Meeste platforms gebruiken hierbij waardes uit het [open graph protocol](https://ogp.me/).
 
 
 
