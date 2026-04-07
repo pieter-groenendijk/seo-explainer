@@ -74,8 +74,14 @@ De randvoorwaarden, zoals veiligheid, snelheid en toegankelijkheid, spreken ook 
   - Rich results
   - Social Media integratie: Open graph protocol
 -->
+Naast de positie maakt het natuurlijk ook uit wat er staat als zoekresultaat. Het is van belang dat het zoekresultaat er aantrekkelijk uitziet. 
 
+De eerdere titel en beschrijving zal je doorgaans vaak tegenkomen in zoekresultaten. Zolang dit geschreven is richting de gebruiker hoeft hier vermoedelijk weinig nog gedaan aan te worden. 
 
+Met behulp van gestandaardiseerd format genaamd _structured data_ meer informatie gegeven geworden, maar wellicht unieker: classificaties. Bijv. een artikel, carousel, cursuslijst, evenement, Q&A, recept en [anderen](https://developers.google.com/search/docs/appearance/structured-data/search-gallery). Deze classificaties kan de zoekmachine vervolgens gebruiken voor een unieker uiterlijk.
+[@GoogleStructuredData; @GoogleStructuredDataSupports]
+
+Normaliter krijgen gedeelde links op socialmediaplatforms een preview, een voorbeeld van waar de website over gaat. Vergelijkbaar met _structured data_ kan er meer informatie gegeven worden betreffende het uiterlijk. Meeste platforms gebruiken hierbij waardes uit het [open graph protocol](ogp.me).
 
 
 
