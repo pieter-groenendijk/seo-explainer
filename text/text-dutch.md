@@ -10,6 +10,7 @@ colorlinks: true
 # Voorwoord
 Deze gids is bedoeld voor zowel technische als niet-technische website-eigenaren, en oogt daarom voornamelijk men aanhaakpunten te leveren voor zelfstandig vervolgonderzoek. Daarentegen worden er wel eventuele technische termen benoemd.
 
+\newpage
 # Introductie
 Search Engine Optimization, ookwel SEO, is het verbeteren van de [zichtbaarheid](#ranking) en [prestaties](#uiterlijk) van pagina's op zoekmachines zoals bijv. Google, Brave en Bing. Afwijkend van veel vormen van marketing/promotie is SEO doorgaans gratis[^SEOGratis]. [@WikipediaSEO; @MDNSEO; @GoogleSEO; @WikipediaSearchEngines]
 
@@ -22,6 +23,7 @@ Een zoekmachine berust op zijn index om zoekresultaten te kunnen bieden. Vergeli
 Voordat een pagina geïndexeerd kan worden zal deze eerst überhaupt ontdekt moeten worden door de zoekmachine. Dit wordt voornamelijk gedaan door zogenoemde crawlers die links op al geïndexeerde pagina's volgen om zo nieuwe pagina's te vinden. In sommige gevallen kan dit ook handmatig worden aangevraagd met behulp van een sitemap. [@GoogleSearchHowItWorks; @WikipediaSEO; @GoogleSitemap; @BingGuidelines]
 
 
+\newpage
 # Ranking & Uiterlijk
 ## Eisen
 Er zijn enkele begineisen om een pagina te laten indexeren [@GoogleTechRequirements]:
@@ -65,6 +67,7 @@ De randvoorwaarden, zoals veiligheid, snelheid en toegankelijkheid, spreken ook 
 
 [^pagespeedcritical]: Neem er rekening mee dat deze inzichten zeer kritisch zijn. Een lagere score betekent niet gelijk dat een ranking laag zal zijn.
 
+\newpage
 ## Uiterlijk
 Naast de positie maakt het natuurlijk ook uit wat er staat als zoekresultaat. Een aantrekkelijk zoekresultaat leidt vermoedelijk tot meer bezoekers.
 
@@ -74,6 +77,7 @@ Classificaties, gespecificeerd met [structured data](https://developers.google.c
 
 Normaliter krijgen gedeelde links op socialmediaplatforms een preview; een voorbeeld van de pagina. Door het [open graph protocol](https://ogp.md/) te gebruiken kan je specificeren hoe het uiterlijk van deze previews eruit zullen zien. [@OpenGraphProtocol; @WikipediaOpenGraph; @WebDevMetadata]
 
+\newpage
 # Hulpmiddelen
 ## Bronnen
 Zoekmachines geven enige toelichting voor SEO: [Google](https://developers.google.com/search/docs) & [Bing](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a).
@@ -90,4 +94,5 @@ Er zijn ook tools losstaand van specifieke zoekmachines beschikbaar, zoals [SEO 
 ## AI
 Een AI-bot zoals [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com) of [Claude](https://claude.ai) kan het verbeteren van SEO een stuk sneller en laagdrempeliger maken. Neem rekening met de risico's die mee komen bij het gebruik van AI.
 
+\newpage
 # Referenties
