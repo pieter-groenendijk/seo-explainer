@@ -1,8 +1,10 @@
 ---
-title: Praktische SEO gids
+title: Search Engine Optimization (SEO)
+lang: nl-NL
 author: Pieter Groenendijk
 date: Apr 6 2026
 bibliography: ./references.bibtex
+colorlinks: true
 ---
 
 # Voorwoord
@@ -31,14 +33,14 @@ Er zijn enkele begineisen om een pagina te laten indexeren [@GoogleTechRequireme
 Sommige pagina's hoeven helemaal niet geïndexeerd worden, zoals bijv. een inlogpagina, print-versie, of een tijdelijke website.
 
 ## Ranking
-Google's daadwerkelijke algoritme is geheim — echter zijn [de guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf) waaruit ze feedback onttrekken openlijk beschikbaar.
-
 ### Persoonsgericht
 Zoekmachines adviseren pagina's te ontwerpen naar gebruikers, waarbij ontwerp naar zoekmachines voornamelijk wordt gezien als misbruik, wat kan leiden tot negatieve effecten op indexatie. Daaruit zullen zoekmachines behulpzame informatie hoger proberen te indexeren. [@GooglePeopleFirst; @BingGuidelines]
 
-Volgens de Google guidelines wordt er gekeken naar twee delen, de pagina kwaliteit en de vervulling van behoeften. Voor SEO is de pagina kwaliteit hier van belang. De pagina kwaliteit reflecteert in hoeverre de pagina zijn eigen beschreven doel bereikt, met uitzondering van misleiding. Deze beoordeling wordt gedaan op basis van de ervaring, expertise en autoriteit van de maker in combinatie met het vertrouwen dat de pagina accuraat eerlijk, veilig en betrouwbaar is. **Zoekmachines nemen dus niet enkel rekening met de "wat", maar ook de "wie", "hoe" en "waarom"**. [@GoogleQualityRaterGuidelines; @GooglePeopleFirst]
+Google's daadwerkelijke algoritme is geheim — echter zijn [de guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf) waaruit ze feedback onttrekken openlijk beschikbaar.
 
-Dit uit zich ook in meer technische componenten: een URL-structuur is bijv. ook beter wanneer deze persoonsgericht is: `https://example.com/wiki/Aviation` i.p.v. `https://example.com/index.php?topic=42&area=3a5ebc944f41daa6f849f730f1`. [@GoogleURLStructure]
+Volgens de Google guidelines wordt er gekeken naar twee delen, de pagina kwaliteit en de vervulling van behoeften. Voor SEO is de pagina kwaliteit hier van belang. De pagina kwaliteit reflecteert in hoeverre de pagina zijn eigen beschreven doel bereikt, met uitzondering van misleiding. Deze beoordeling wordt gedaan op basis van de ervaring, expertise en autoriteit van de maker in combinatie met het vertrouwen dat de pagina accuraat eerlijk, veilig en betrouwbaar is. Zoekmachines nemen dus niet enkel rekening met de "wat", maar ook de "wie", "hoe" en "waarom". [@GoogleQualityRaterGuidelines; @GooglePeopleFirst]
+
+Dit uit zich ook in meer technische componenten: een URL-structuur is bijv. ook beter wanneer deze persoonsgericht is: "example.com/wiki/Aviation" i.p.v. "example.com/index.php?topic=42&area=3a5ebc944f41daa6f849f730f1". [@GoogleURLStructure]
 
 ### Expliciet maken
 Zoals eerder besproken ligt er tegenwoordig een hoge nadruk op gebruikersgericht schrijven. Echter, men onthaalt nog steeds andere betekenis uit een pagina dan dat een zoekmachine denkt. Door expliciete beschrijvingen specifiek toe te voegen voor de _bots_ wordt dit gat kleiner.
@@ -70,7 +72,7 @@ De eerdere besproken titel en beschrijving zal je doorgaans vaak tegenkomen in z
 
 Classificaties, gespecificeerd met [structured data](https://developers.google.com/search/docs/appearance/structured-data/search-gallery), kunnen wellicht een aantrekkelijker uiterlijk geven aan een zoekresultaat, voor bijv. een artikel, organisatie, carousel, FAQ, evenement, recept, en nog vele anderen. [@GoogleStructuredData; @GoogleStructuredDataSupports; @BingStructuredData]
 
-Normaliter krijgen gedeelde links op socialmediaplatforms een preview, een voorbeeld van waar de website over gaat. Door het [open graph protocol](https://ogp.md/) te gebruiken kan je specificeren hoe het uiterlijk van deze previews eruit zullen zien. [@OpenGraphProtocol; @WikipediaOpenGraph; @WebDevMetaData]
+Normaliter krijgen gedeelde links op socialmediaplatforms een preview; een voorbeeld van de pagina. Door het [open graph protocol](https://ogp.md/) te gebruiken kan je specificeren hoe het uiterlijk van deze previews eruit zullen zien. [@OpenGraphProtocol; @WikipediaOpenGraph; @WebDevMetadata]
 
 # Hulpmiddelen
 ## Bronnen
