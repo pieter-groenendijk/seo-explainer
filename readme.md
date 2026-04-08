@@ -1,6 +1,4 @@
 # SEO
-Please consult the [releases](https://github.com/pieter-groenendijk/seo-lesson/releases) to find the slides, slides with notes, or a long-form paper-like. Or look at the [LinkedIn article].
+Please consult the [releases](https://github.com/pieter-groenendijk/seo-lesson/releases) to find the slides, slides with notes, or a long-form paper-like. Or look at the [LinkedIn article](https://www.linkedin.com/pulse/seo-starter-fundamentals-pieter-groenendijk-tbaje).
 
-I, [Pieter Groenendijk](https://www.linkedin.com/in/pieter-groenendijk-4753ba2ab/), gave a small presentation about the generally unengaging subject of SEO. This is certainly not my expertise, circumstances only made me the most fit.
-
-
+I, [Pieter Groenendijk](https://www.linkedin.com/in/pieter-groenendijk-4753ba2ab/), gave a presentation about the generally unengaging subject of SEO... It's certainly not my expertise, yet circumstances made me the most fit for the job. There were some actual surprises for me when researching, and it has changed more than I thought. Please use some of my findings. 

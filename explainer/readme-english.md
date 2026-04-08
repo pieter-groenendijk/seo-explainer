@@ -1,5 +1,6 @@
 ---
-title: Search Engine Optimization (SEO)
+title: SEO Starter — the fundamentals
+description: An independent summary of fundamental SEO practices that should serve as an jumping-off point. For both technical as non-technical website-owners.
 lang: en-US
 author: Pieter Groenendijk
 date: Apr 8 2026
@@ -8,7 +9,7 @@ colorlinks: true
 ---
 
 # Foreword
-This guide is intended for both technical and non-technical website owners and aims to provide starting points for your own follow-up research. 
+This guide is intended for both technical and non-technical website owners and aims to provide starting points for your own follow-up research. This explainer is only an introduction and explicitly not exhaustive or fine-detailed.
 
 \newpage
 # Introduction
